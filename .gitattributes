@@ -1,0 +1,2 @@
+# Bytes exactos: la firma Ed25519 cubre config.json tal cual (sin conversión CRLF).
+* -text
