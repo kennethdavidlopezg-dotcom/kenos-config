@@ -1,3 +1,15 @@
 {
-  "revision": 1
+  "revision": 2,
+  "update": {
+    "version": "2026.10.24",
+    "build": 2026102401,
+    "notes": "- Conectar con Epic: tu biblioteca completa de Epic, también los juegos sin instalar.\n- «Sin instalar» de Epic solo muestra los juegos de tu cuenta (antes salían juegos de la tienda que no tenías).\n- Conectar con Steam por QR: la app móvil ya lo acepta y la sesión se mantiene al reiniciar KenOs.\n- Seguridad: sesiones cifradas con una clave propia de KenOs; «Desconectar» cierra la sesión también en Steam, Epic y Google; la configuración de Google Drive va cifrada.\n- Pulsar en la barra la sección en la que estás te lleva a su inicio.\n- Esc cierra la ficha del juego siempre.\n- Temas: la vista previa cambia al pasar el ratón por otro fondo.",
+    "assets": {
+      "win-x64": {
+        "url": "https://github.com/kennethdavidlopezg-dotcom/kenos-config/releases/download/v2026.10.24/KenOs-Setup-2026.10.24.exe",
+        "sha256": "91556b54fac72a5319f44a8dc5eaa6d3d14ed2f92d127678aded6c0e58fc20c7",
+        "size": 50580368
+      }
+    }
+  }
 }
