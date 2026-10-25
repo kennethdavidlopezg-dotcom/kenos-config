@@ -1,14 +1,14 @@
 {
-  "revision": 4,
+  "revision": 5,
   "update": {
-    "version": "2026.10.25",
-    "build": 2026102501,
-    "notes": "- Logros con su nombre, descripción e icono en español también en juegos sin datos de Steam en el PC (antes salían como «0010»).\n- Los logros de juegos con emulador (RUNE, CODEX, Goldberg, FLT, OnlineFix…) se encuentran aunque el nombre del juego no coincida con el de Steam.",
+    "version": "2026.10.25.2",
+    "build": 2026102502,
+    "notes": "- La ficha del juego se abre sin parpadeos: ya no se ve la biblioteca en gris por detrás mientras aparece.",
     "assets": {
       "win-x64": {
-        "url": "https://github.com/kennethdavidlopezg-dotcom/kenos-config/releases/download/v2026.10.25/KenOs-Setup-2026.10.25.exe",
-        "sha256": "c75c466067dec9a0f9f5002a6270f4ca4214feb717c88a6951ad586e4e170723",
-        "size": 50587630
+        "url": "https://github.com/kennethdavidlopezg-dotcom/kenos-config/releases/download/v2026.10.25.2/KenOs-Setup-2026.10.25.2.exe",
+        "sha256": "a64a74f50029c8246ced2a830da06d776f664197ee24e91bb6d2c869ad5fb837",
+        "size": 50583743
       }
     }
   }
